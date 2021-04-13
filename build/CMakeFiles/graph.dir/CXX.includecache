@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/khaymon/kis_exam/main.cpp
+iostream
+-
+fstream
+-
+png.h
+-
+vector
+-
+cstdlib
+-
+

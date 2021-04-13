@@ -1,0 +1,3 @@
+/home/khaymon/kis_exam/build/CMakeFiles/rebuild_cache.dir
+/home/khaymon/kis_exam/build/CMakeFiles/edit_cache.dir
+/home/khaymon/kis_exam/build/CMakeFiles/graph.dir
